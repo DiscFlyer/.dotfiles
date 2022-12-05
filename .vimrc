@@ -1,5 +1,3 @@
-set rtp+=/home/linuxbrew/.linuxbrew/opt/fzf
-
 " URL: http://vim.wikia.com/wiki/Example_vimrc
 " Authors: http://vim.wikia.com/wiki/Vim_on_Freenode
 " Description: A minimal, but feature rich, example .vimrc. If you are a
